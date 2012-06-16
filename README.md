@@ -32,7 +32,7 @@ stream.on('status', function(status) {
 });
 
 //Handling error
-stream.on('error', function(error) function{
+stream.on('error', function(error) {
   console.error(error);
 });
 
